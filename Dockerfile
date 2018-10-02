@@ -19,3 +19,6 @@ RUN npm install -g gulp
 
 #install gulp
 RUN npm install -g yarn
+
+#install grunt
+RUN npm install -g grunt
